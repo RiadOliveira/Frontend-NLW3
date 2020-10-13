@@ -1,2 +1,2 @@
 # Frontend-NLW3
- Project that was developed during Rocketseat's Next Level Week event.
+ Front-end of the application that is being developed during **Rocketseat's Next Level Week 3** event.
